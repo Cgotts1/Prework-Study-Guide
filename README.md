@@ -2,13 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation? The motivation for this project was to create a study guide that is easily accessible and easy to read for new students who we'll be participatng in the bootcamp.
-- Why did you build this project? I built this project to help me with the basics of CSS, Git, HTML, and JavaScript as those well be used extensively throughout the bootcamp.
-- What problem does it solve? It solves the problem of not having access to a studyguide when refreshing on material taught throughout the prework-study-guide project. 
-- What did you learn? Doing this first project taught me the very basics of how to implement HTML, CSS, Git, and JavaScript when creating an application or website. I also learned how to keep the local repository and git repository in sync with one another, so that when working on future group assignments, there will be a consistent work flow between peers. 
-
+The motivation for this project was to create a study guide that is easily accessible and easy to read for new students who we'll be participatng in the bootcamp. I built this project to help me with the basics of CSS, Git, HTML, and JavaScript as those well be used extensively throughout the bootcamp. It solves the problem of not having access to a studyguide when refreshing on material taught throughout the prework-study-guide project. What did you learn? Doing this first project taught me the very basics of how to implement HTML, CSS, Git, and JavaScript when creating an application or website. I also learned how to keep the local repository and git repository in sync with one another, so that when working on future group assignments, there will be a consistent work flow between peers. 
 
 ## Installation
 
